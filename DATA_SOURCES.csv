@@ -1,0 +1,6 @@
+chapter,file,source,units_and_scope
+CH01;CH03,mtcars.csv,https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/mtcars.html,mpg: miles/US gallon; wt: 1000 lb; CH03 converts to km/l and tonnes
+CH03,stock_data.csv,Publisher teaching case; public R companion repository,Anonymous Company A; 372 rows; 12 interpolated rows; rf annual percent /100/365
+CH07,EuStockMarkets.csv,https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/EuStockMarkets.html,1991–1998; observation index; simple percentage returns
+CH10,feds200628.csv,https://www.federalreserve.gov/data/nominal-yield-curve.htm,GSW historical snapshot; SVENY01–30: annual percent continuous zero yields
+CH11;CH12,SPY_monthly_2000_2024.csv,https://finance.yahoo.com/quote/SPY/history/,Fixed monthly adjusted-price snapshot inherited unchanged from public R repository; no live download

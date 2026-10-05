@@ -1,0 +1,10 @@
+{
+  "data": "SIMULATED AR(2)",
+  "selected_order": [
+    2,
+    0,
+    0
+  ],
+  "forecast_MSE": 1.4667300911910746,
+  "seed": 123456
+}

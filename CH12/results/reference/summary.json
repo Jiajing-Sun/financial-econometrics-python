@@ -1,0 +1,8 @@
+{
+  "data": "SIMULATED：40 只股票、42 个月",
+  "models": 3,
+  "training_window_months": 24,
+  "out_of_sample_rows_per_model": 720,
+  "tuning": "预先固定参数，测试窗未用于选择模型或阈值",
+  "R_difference": "scikit-learn 与 rpart 的剪枝准则及默认设置不同，不要求树结构逐节点相同"
+}

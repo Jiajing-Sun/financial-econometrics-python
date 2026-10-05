@@ -1,0 +1,7 @@
+{
+  "data": "mtcars 与出版社匿名 A 公司案例",
+  "interpolated_rows": 12,
+  "CAPM_alpha": 0.0008913397216925822,
+  "CAPM_beta": 1.2690061588114077,
+  "rf_convention": "正文教学近似：年化百分数 / 100 / 365；从对数收益中扣除"
+}

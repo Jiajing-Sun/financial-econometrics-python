@@ -1,0 +1,5 @@
+{
+  "data": "SIMULATED；按 t-1 特征分组计算 t 收益",
+  "periods": 239,
+  "method": "简化独立等权排序，非官方 Fama–French 2×3 市值加权因子"
+}

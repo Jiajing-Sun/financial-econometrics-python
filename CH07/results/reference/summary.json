@@ -1,0 +1,6 @@
+{
+  "data": "EuStockMarkets 1991—1998 历史样本；按 observation 索引，无伪造日期",
+  "n": 1859,
+  "density_bandwidth": "SciPy Scott；不同于 R density 的默认带宽",
+  "regression_bandwidth": 0.18735178729703797
+}

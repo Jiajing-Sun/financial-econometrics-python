@@ -1,0 +1,6 @@
+{
+  "data": "SIMULATED 对数随机游走；非贵州茅台行情",
+  "price_observations": 1501,
+  "test": "固定持有期、重叠、异方差稳健 VR；不是 R AutoBoot.test 的逐项替代",
+  "interpretation": "同时考察多个持有期涉及多重检验；未拒绝不等于证明市场有效"
+}

@@ -1,0 +1,6 @@
+{
+  "data": "SIMULATED GBM 与独立观测噪声",
+  "true_integrated_variance": 0.04000000000000001,
+  "Brownian_quadratic_variation": 1.0019561028970663,
+  "seed": 123
+}

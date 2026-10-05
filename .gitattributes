@@ -1,0 +1,2 @@
+# Keep original data snapshots byte-for-byte, including source line endings.
+CH*/data/*.csv -text -whitespace

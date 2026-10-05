@@ -1,0 +1,44 @@
+[
+  {
+    "file": "CH01/data/mtcars.csv",
+    "source_repository": "https://github.com/Jiajing-Sun/financial-econometrics-r",
+    "sha256": "2db1aac05fea9356bd20fced5783c2ae9aed5caab61d4b86e6d103eec80cac43",
+    "upstream_commit": "9f0224dad183c704512e2962c5dac80879529604",
+    "upstream_file": "https://github.com/Jiajing-Sun/financial-econometrics-r/blob/9f0224dad183c704512e2962c5dac80879529604/CH01/data/mtcars.csv"
+  },
+  {
+    "file": "CH03/data/mtcars.csv",
+    "source_repository": "https://github.com/Jiajing-Sun/financial-econometrics-r",
+    "sha256": "2db1aac05fea9356bd20fced5783c2ae9aed5caab61d4b86e6d103eec80cac43",
+    "upstream_commit": "9f0224dad183c704512e2962c5dac80879529604",
+    "upstream_file": "https://github.com/Jiajing-Sun/financial-econometrics-r/blob/9f0224dad183c704512e2962c5dac80879529604/CH03/data/mtcars.csv"
+  },
+  {
+    "file": "CH03/data/stock_data.csv",
+    "source_repository": "https://github.com/Jiajing-Sun/financial-econometrics-r",
+    "sha256": "cdcd705e951410eefecba0825b3c896f67cedfc895d1ecf8788e91c3847503fa",
+    "upstream_commit": "9f0224dad183c704512e2962c5dac80879529604",
+    "upstream_file": "https://github.com/Jiajing-Sun/financial-econometrics-r/blob/9f0224dad183c704512e2962c5dac80879529604/CH03/data/stock_data.csv"
+  },
+  {
+    "file": "CH07/data/EuStockMarkets.csv",
+    "source_repository": "https://github.com/Jiajing-Sun/financial-econometrics-r",
+    "sha256": "f42f0a7f8b9e1c2c55ab085a0e83ee45ad28cce98317d341e84d0fb54be2af28",
+    "upstream_commit": "9f0224dad183c704512e2962c5dac80879529604",
+    "upstream_file": "https://github.com/Jiajing-Sun/financial-econometrics-r/blob/9f0224dad183c704512e2962c5dac80879529604/CH07/data/EuStockMarkets.csv"
+  },
+  {
+    "file": "CH10/data/feds200628.csv",
+    "source_repository": "https://github.com/Jiajing-Sun/financial-econometrics-r",
+    "sha256": "379cae673092e64aea0baa58796b276ebc5c9c7f2c342d66e7b1fe1e52fd0421",
+    "upstream_commit": "9f0224dad183c704512e2962c5dac80879529604",
+    "upstream_file": "https://github.com/Jiajing-Sun/financial-econometrics-r/blob/9f0224dad183c704512e2962c5dac80879529604/CH10/data/feds200628.csv"
+  },
+  {
+    "file": "CH12/data/SPY_monthly_2000_2024.csv",
+    "source_repository": "https://github.com/Jiajing-Sun/financial-econometrics-r",
+    "sha256": "ad10b2018e46eb6ef5344e260dd149eda71c309eb29cccc2d585c378d8d15ff7",
+    "upstream_commit": "9f0224dad183c704512e2962c5dac80879529604",
+    "upstream_file": "https://github.com/Jiajing-Sun/financial-econometrics-r/blob/9f0224dad183c704512e2962c5dac80879529604/CH12/data/SPY_monthly_2000_2024.csv"
+  }
+]

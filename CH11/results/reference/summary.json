@@ -1,0 +1,5 @@
+{
+  "tail_demo": "SIMULATED Pareto，尾指数 3",
+  "historical_data": "SPY 月度快照，2000—2024；非实时行情",
+  "risk": "负对数收益口径；全样本描述性风险，不是事前预测或策略回测"
+}

@@ -1,0 +1,5 @@
+{
+  "data": "R datasets::mtcars 历史样本",
+  "rows": 32,
+  "series_absolute_error": 4.440892098500626e-16
+}
