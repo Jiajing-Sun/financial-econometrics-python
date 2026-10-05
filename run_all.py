@@ -1,8 +1,10 @@
 """从任意工作目录运行指定章节。"""
+
 from pathlib import Path
 import argparse
 import subprocess
 import sys
+
 p = argparse.ArgumentParser()
 p.add_argument("--chapters", default=",".join(map(str, range(1, 13))))
 a = p.parse_args()
